@@ -100,7 +100,7 @@ and to configure the usb adapter i installed an app called GTKTERM by again open
 
 sudo apt-get install gtkterm
 
-when installed go to application and under accessories should now be a new application called "serial port terminal"
+when installed go to applications and under accessories should now be a new application called "serial port terminal"
 open it up and on the configuration tab you can now change and save a permanent configuration for your adapter and any other adapter you are 
 using. this way i had a solid connection as some people were complaining about the vfd being noisy and dropping connection, 
 so they gave up using the rs485 method but im not using a shielded cable from the rs485 port on the vfd, it is a jst-xh 3 pin male cable thats about 20cm long. 
