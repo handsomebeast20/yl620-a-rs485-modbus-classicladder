@@ -2,9 +2,11 @@
 
 ### About
 
-This repository should help users to integrate the YL620 VFD using Modbus RS485 into LinuxCNC. This integration is based on ClassicLadder. In my other [repository](https://github.com/xsnoopy/LinuxCNC-Yalang-yl620-VFD-rs485-Modbus---VFDmod) 
-I am using VFDmod, but I would suggest stay as much as you can with standard components of LinuxCNC. I believe as well that with ClassicLadder you should be able to use other Modbus devices at the same time. It seems to be possible, to use the X1-X8 Terminals of the VFD as field Inputs. But since I don’t have a use for that, I haven’t bothered with it. Leave a pull request and I might integrate that as well. 
-![](axis.png)
+This repository this repository is just an edit of an existing repository that i have uploaded with changes that needed to be made to get it working as the original had some mistakes but i have made the relevant changes so you can get it workingwith some other handy tips if youve been strugglng like me to get this working, i take no credit for the original file as all the hard work wass done by the original uploader
+
+https://github.com/xsnoopy/LinuxCNC-Yalang-yl620-VFD-rs485-Modbus-ClassicLadder
+
+i have just made the relevant changes as i cant message him on github or contact him on the linuxcnc forums so if you want to thank anybody thank him as i only made the relevant changes to the readme file for it to show the pyvcp panel and get the panel working and giving feedback, snoopy did all the hard work so a great big thankyou to him and here is the edited repo which i am using on linuxcnc 2.8.4 using the axis gui
 
 ### How to
 
