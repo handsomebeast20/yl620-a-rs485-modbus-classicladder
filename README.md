@@ -2,7 +2,7 @@
 
 ### About
 
-This repository this repository is just an edit of an existing repository that i have uploaded with changes that needed to be made to get it working as the original had some mistakes but i have made the relevant changes so you can get it workingwith some other handy tips if youve been strugglng like me to get this working, i take no credit for the original file as all the hard work wass done by the original uploader
+This repository is just an edit of an existing repository that i have uploaded with changes that needed to be made to get it working as the original had some mistakes but i have made the relevant changes so you can get it working with some other handy tips if youve been strugglng like me to get this working, i take no credit for the original file as all the hard work was done by the original uploader
 
 https://github.com/xsnoopy/LinuxCNC-Yalang-yl620-VFD-rs485-Modbus-ClassicLadder
 
@@ -75,7 +75,7 @@ MODBUS_MAP_REGISTER_READ=1
 MODBUS_MAP_REGISTER_WRITE=0
 _/FILE-com_params.txt
 
-MODBUS_MASTER_SERIAL_PORT=/dev/ttyUSB0
+"MODBUS_MASTER_SERIAL_PORT=/dev/ttyUSB0"
 
 (this is the line that needs editing with /dev/ttyACM0)
 
